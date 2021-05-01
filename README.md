@@ -1,7 +1,5 @@
 ### Hi, I'm Chintan, also known as [Xscotophilic](https://xscotophilic.me/) on the internet. I enjoy painting, playing the violin, reading, and writing. I love working on open source projects that help society. I just want to be a good person, despite the fact that I have no idea who I am.
 
-<img align="right" alt="meh" src="meh.png" height="320" />
-
 **Languages and Tools:**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
@@ -19,6 +17,8 @@ If you like what I do, maybe consider buying me a coffee🥺
 
 <a href="https://www.patreon.com/xscotophilic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+<img align="right" alt="meh" src="meh.png" height="320" />
+
 My GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xscotophilic&layout=compact&theme=gotham" alt="Top Langs" />
@@ -33,7 +33,7 @@ My GitHub Stats:
 <a href="https://www.linkedin.com/in/tyrion404/">
   <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/">
+<a href="https://open.spotify.com/user/1lzx6w5d843jocxciu9w9ojqu">
   <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
