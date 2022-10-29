@@ -2,22 +2,22 @@
 
 **Languages and Tools:**
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
+<code><img height="30" src="./assets/icons/tech/javascript.png" /></code>
+<code><img height="30" src="./assets/icons/tech/react.png"></code>
+<code><img height="30" src="./assets/icons/tech/angular.png"></code>
+<code><img height="30" src="./assets/icons/tech/nodejs.png"></code>
+<code><img height="30" src="./assets/icons/tech/tensorflow.png" /></code>
+<code><img height="30" src="./assets/icons/tech/python.png" /></code>
+<code><img height="30" src="./assets/icons/tech/docker.png" /></code>
+<code><img height="30" src="./assets/icons/tech/firebase.png" /></code>
+<code><img height="30" src="./assets/icons/tech/ethereum.png" /></code>
+<code><img height="30" src="./assets/icons/tech/git.png" /></code>
 
 If you like what I do, maybe consider buying me a coffee🥺
 
-<a href="https://www.buymeacoffee.com/xscotophilic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/xscotophilic" target="_blank"><img src="./assets/icons/social/coffee.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<img align="right" alt="meh" src="meh.png" height="320" />
+<img align="right" alt="meh" src="./assets/images/meh.png" height="320" />
 
 My GitHub Stats:
 
@@ -28,13 +28,18 @@ My GitHub Stats:
 ---
 
 <a href="https://twitter.com/tyrion404">
-  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img style="margin: 3px" align="left" alt="Twitter" width="22px" src="./assets/icons/social/twitter.png" />
 </a>
+
 <a href="https://www.linkedin.com/in/tyrion404/">
-  <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img style="margin: 3px" align="left" alt="Linkedin" width="22px" src="./assets/icons/social/linkedin.png" />
 </a>
+
 <a href="https://open.spotify.com/user/1lzx6w5d843jocxciu9w9ojqu">
-  <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img style="margin: 3px" align="left" alt="Spotify" width="22px" src="./assets/icons/social/spotify.png" />
 </a>
+
+<br />
+<br />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=xscotophilic.xscotophilic)
