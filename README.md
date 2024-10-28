@@ -1,22 +1,5 @@
 ### Hi, I'm Chintan, also known as [Xscotophilic](https://xscotophilic.ml/) on the internet. I enjoy painting, playing the violin, reading, and writing. I love working on open source projects that help society. I just want to be a good person, despite the fact that I have no idea who I am.
 
-**Languages and Tools:**
-
-<code><img height="30" src="./assets/icons/tech/javascript.png" /></code>
-<code><img height="30" src="./assets/icons/tech/react.png"></code>
-<code><img height="30" src="./assets/icons/tech/angular.png"></code>
-<code><img height="30" src="./assets/icons/tech/nodejs.png"></code>
-<code><img height="30" src="./assets/icons/tech/tensorflow.png" /></code>
-<code><img height="30" src="./assets/icons/tech/python.png" /></code>
-<code><img height="30" src="./assets/icons/tech/docker.png" /></code>
-<code><img height="30" src="./assets/icons/tech/firebase.png" /></code>
-<code><img height="30" src="./assets/icons/tech/ethereum.png" /></code>
-<code><img height="30" src="./assets/icons/tech/git.png" /></code>
-
-If you like what I do, maybe consider buying me a coffee🥺
-
-<a href="https://www.buymeacoffee.com/xscotophilic" target="_blank"><img src="./assets/icons/social/coffee.png" alt="Buy Me A Coffee" width="150" ></a>
-
 <img align="right" alt="meh" src="./assets/images/meh.png" height="320" />
 
 My GitHub Stats:
