@@ -1,28 +1,56 @@
-### Hi, I'm Chintan, also known as [Xscotophilic](https://xscotophilic.art/) on the internet. I enjoy painting, playing the violin, reading, and writing. I love working on open source projects that help society. I just want to be a good person, despite the fact that I have no idea who I am.
+## Hey there 👋
 
-<img align="right" alt="meh" src="./assets/images/meh.png" height="320" />
+I’m Chintan (aka _Xscotophilic_), a professional problem-solver, amateur overthinker, and artist by instinct. I build things, break things, and occasionally make them beautiful.
 
-My GitHub Stats:
+## 🛠 Tech I summon regularly (subject to change without notice)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xscotophilic&layout=compact&theme=gotham" alt="Top Langs" />
-<br />
-<img src="https://github-readme-stats.vercel.app/api?username=xscotophilic&show_icons=true&theme=gotham" alt="stats" />
+<table>
+  <tr>
+    <td><b>🦾 Languages</b></td>
+    <td><code>JavaScript, TypeScript, Python, Dart, Go & Rust (when brave)</code></td>
+  </tr>
+  <tr>
+    <td><b>🧰 Ecosystem</b></td>
+    <td><code>Git, macOS, Linux, any code editor (yes, even that one)</code></td>
+  </tr>
+  <tr>
+    <td><b>🧩 Philosophy</b></td>
+    <td><code>If it’s clever but unreadable, it’s not clever</code></td>
+  </tr>
+</table>
 
----
+## ⚡ Skills & Superpowers (aka things I break confidently)
 
-<a href="https://twitter.com/tyrion404">
-  <img style="margin: 3px" align="left" alt="Twitter" width="22px" src="./assets/icons/social/twitter.png" />
-</a>
+```text
+🧠 Thinking            █████████░░░  Overthinking included
+🎨 Creativity          ██████████░░  Cannot be turned off
+🔍 Problem Solving     ███████████░  Desperation-based
+🐛 Debugging at 2 AM   ████████████  Against all odds
+☕️ Coffee              ████████░░░░  MVP
+```
 
-<a href="https://www.linkedin.com/in/tyrion404/">
-  <img style="margin: 3px" align="left" alt="Linkedin" width="22px" src="./assets/icons/social/linkedin.png" />
-</a>
+## 🌌 What I’m Into (Besides Code)
 
-<a href="https://open.spotify.com/user/1lzx6w5d843jocxciu9w9ojqu">
-  <img style="margin: 3px" align="left" alt="Spotify" width="22px" src="./assets/icons/social/spotify.png" />
-</a>
+- ⛰️ **Traveling, Dancing, Cooking, Painting** - side quests unlocked
+- 📖 **Reading** - fiction, philosophy, & tech rabbit holes
+- 🧪 **Experiments** - small projects, big curiosity
 
-<br />
-<br />
+## 📬 Call to Action (do the thing)
 
-![](https://visitor-badge.glitch.me/badge?page_id=xscotophilic.xscotophilic)
+<table>
+  <tr>
+    <td width="72px">
+      <img src="https://raw.githubusercontent.com/xscotophilic/xscotophilic/main/assets/cat.gif"/>
+    </td>
+    <td>
+      Code is poetry. Bugs are... abstract poetry.<br />
+      If you vibe with this chaos, drop a star on something!
+    </td>
+  </tr>
+</table>
+
+## 🤝 Let’s Connect (I promise I’m friendly)
+
+[![X (formerly Twitter)](https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white)](https://twitter.com/xscotophilic)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/xscotophilic)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/1lzx6w5d843jocxciu9w9ojqu)
